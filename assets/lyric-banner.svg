@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Tian — Sing me something new</title>
+  <desc id="desc">Ivory paper, a small Tian signature, an italic lyric, and a single music note above three delicate orbital rings.</desc>
+  <rect x="1" y="1" width="1198" height="258" rx="12" fill="#F5F3EB" stroke="#DFE2D7"/>
+  <text x="49" y="51" fill="#24483D" font-family="'Segoe UI', Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="-0.6">Tian<tspan fill="#D56A49">.</tspan></text>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="44" font-style="italic" fill="#24483D">
+    <text x="49" y="131">Sing me</text>
+    <text x="49" y="186">something new</text>
+  </g>
+  <path d="M52 212H84" stroke="#D56A49" stroke-width="2" stroke-linecap="round"/>
+  <g transform="translate(904 173) rotate(-14)" stroke="#31594B" stroke-width="1.25">
+    <ellipse rx="148" ry="44" opacity="0.22"/>
+    <ellipse rx="119" ry="35" opacity="0.35"/>
+    <ellipse rx="89" ry="26" opacity="0.5"/>
+  </g>
+  <path d="M928 149V66C928 89 977 84 962 116" stroke="#31594B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="911" cy="151" rx="20" ry="13" transform="rotate(-22 911 151)" fill="#D56A49"/>
+  <circle cx="1047" cy="137" r="4" fill="#31594B"/>
+</svg>
