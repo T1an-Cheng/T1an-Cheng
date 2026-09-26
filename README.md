@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Tian — A curious mind, in motion. Orbital linework on an ivory research notebook." width="100%" />
+  <img src="https://raw.githubusercontent.com/T1an-Cheng/T1an-Cheng/c66efca4b507123711d499628d1b8bda5775ea58/assets/profile-banner.svg" alt="Tian — A curious mind, in motion. Orbital linework on an ivory research notebook." width="100%" />
 </p>
 
 <p align="center">
