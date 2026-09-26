@@ -1,0 +1,67 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1120" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07182D"/>
+      <stop offset="0.52" stop-color="#102A56"/>
+      <stop offset="1" stop-color="#24164A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="350" y1="100" x2="850" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56D9FF"/>
+      <stop offset="0.5" stop-color="#8B8CFF"/>
+      <stop offset="1" stop-color="#D977FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#69E2FF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#69E2FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#B9D7FF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <circle cx="1020" cy="70" r="250" fill="url(#glow)" opacity="0.55"/>
+  <circle cx="130" cy="330" r="270" fill="url(#glow)" opacity="0.3"/>
+
+  <!-- A small reasoning graph: nodes pass a pulse from question to tool to answer. -->
+  <g opacity="0.8">
+    <path d="M84 87C150 35 228 47 276 102C316 148 300 214 246 243" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 10">
+      <animate attributeName="stroke-dashoffset" values="34;0" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M930 244C986 282 1070 271 1111 209C1143 161 1120 104 1075 78" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 10">
+      <animate attributeName="stroke-dashoffset" values="0;34" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <g fill="#07182D" stroke="#74DFFF" stroke-width="2">
+      <circle cx="85" cy="87" r="7"/>
+      <circle cx="276" cy="102" r="7"/>
+      <circle cx="246" cy="243" r="7"/>
+      <circle cx="930" cy="244" r="7"/>
+      <circle cx="1111" cy="209" r="7"/>
+      <circle cx="1075" cy="78" r="7"/>
+    </g>
+    <circle r="5" fill="#F2B8FF" filter="url(#softGlow)">
+      <animateMotion dur="4.5s" repeatCount="indefinite" path="M84 87C150 35 228 47 276 102C316 148 300 214 246 243"/>
+    </circle>
+    <circle r="5" fill="#69E2FF" filter="url(#softGlow)">
+      <animateMotion dur="4.5s" repeatCount="indefinite" path="M930 244C986 282 1070 271 1111 209C1143 161 1120 104 1075 78"/>
+    </circle>
+  </g>
+
+  <g text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="600" y="126" fill="#F8FBFF" font-size="62" font-weight="700" letter-spacing="1">Tian Cheng</text>
+    <rect x="392" y="153" width="416" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="600" y="203" fill="#BFD5F5" font-size="23" font-weight="500" letter-spacing="2.2">AGENTS · REASONING · LEARNING</text>
+    <text x="600" y="252" fill="#8FAED8" font-size="18" letter-spacing="0.6">Building systems that think with tools and improve through experience.</text>
+  </g>
+
+  <g fill="#D8E8FF">
+    <circle cx="350" cy="62" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="82" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="863" cy="276" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="333" cy="286" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
