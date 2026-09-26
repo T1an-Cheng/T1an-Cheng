@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sing me something new</title>
+  <desc id="desc">An Oasis lyric beside an open window onto an unfamiliar landscape. A quiet illustration of curiosity and new possibilities.</desc>
+  <defs>
+    <clipPath id="view"><rect x="880" y="34" width="130" height="170"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="238" rx="10" fill="#F5F3EB" stroke="#E3E1D8"/>
+  <text x="58" y="124" fill="#2C413B" font-family="Georgia, 'Times New Roman', serif" font-size="45" letter-spacing="-0.8">Sing me something <tspan font-style="italic" fill="#AF6048">new</tspan></text>
+  <text x="61" y="161" fill="#81877E" font-family="'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="2">— OASIS</text>
+  <g clip-path="url(#view)">
+    <rect x="880" y="34" width="130" height="170" fill="#E1E9E5"/>
+    <circle cx="968" cy="78" r="12" fill="#D9815D"/>
+    <path d="M875 157C917 157 947 106 1015 120V209H875Z" fill="#BACBB8"/>
+    <path d="M875 186C936 138 964 178 1015 143V209H875Z" fill="#79958A"/>
+    <path d="M923 207C947 187 940 164 964 145" stroke="#F5F3EB" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <path d="M880 204V34H1010V204H880Z" stroke="#3F594E" stroke-width="1.5"/>
+  <path d="M1010 34L1058 54V220L1010 204V34Z" fill="#EEEDE2" stroke="#3F594E" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M1020 50L1048 62V203L1020 193V50Z" stroke="#BDC5B6" stroke-width="1"/>
+  <path d="M1045 125V137" stroke="#3F594E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M865 220H1074" stroke="#D8DCD0" stroke-width="1"/>
+</svg>
