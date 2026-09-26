@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Tian Cheng — Agents, Reasoning, Learning" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Tian — A curious mind, in motion. Orbital linework on an ivory research notebook." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/tmlr-group"><img src="https://img.shields.io/badge/Research_Assistant-TMLR_Group-2563EB?style=for-the-badge" alt="Research Assistant at TMLR Group" /></a>
-  <img src="https://img.shields.io/badge/Focus-Agentic_RL-7C3AED?style=for-the-badge" alt="Agentic Reinforcement Learning" />
-  <img src="https://img.shields.io/badge/Focus-Trustworthy_Reasoning-0891B2?style=for-the-badge" alt="Trustworthy Reasoning" />
+  <sub><a href="https://github.com/tmlr-group">TMLR Group</a> &nbsp; · &nbsp; Hong Kong Baptist University &nbsp; · &nbsp; <a href="https://github.com/tmlr-group/AlphaApollo">AlphaApollo ↗</a></sub>
 </p>
 
-## Hello! 👋
+## Hello, I'm Tian.
 
 I'm **Tian Cheng**, a Research Assistant with the [Trustworthy Machine Learning and Reasoning (TMLR) Group](https://github.com/tmlr-group) at Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
 
@@ -16,7 +14,7 @@ I received my B.Eng. in Computer Science and Technology from Huazhong University
 
 > I like research ideas that can leave the whiteboard, survive real experiments, and become useful systems.
 
-## What I'm exploring 🔭
+## What I'm exploring
 
 | | Direction | The question behind it |
 |:--:|---|---|
@@ -25,7 +23,7 @@ I received my B.Eng. in Computer Science and Technology from Huazhong University
 | 🛠️ | **Tool-augmented intelligence** | How should models decide when and how to use external tools? |
 | ✅ | **Verifiable learning signals** | How can trustworthy feedback drive self-improvement? |
 
-## Featured work 🚀
+## Featured work
 
 <table>
   <tr>
@@ -36,7 +34,7 @@ I received my B.Eng. in Computer Science and Technology from Huazhong University
     </td>
     <td align="center">
       <a href="https://github.com/tmlr-group/AlphaApollo">
-        <img src="https://img.shields.io/badge/Explore-AlphaApollo-6D5DFB?style=for-the-badge&logo=github" alt="Explore AlphaApollo" />
+        <strong>Explore AlphaApollo ↗</strong>
       </a>
     </td>
   </tr>
