@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="./assets/open-window.svg" alt="Sing me something new — Oasis. An open window onto new possibilities." width="100%" />
-</p>
+## Tian Cheng
 
-[Personal website ↗](https://t1an-cheng.github.io/)
+I'm an incoming PhD student in the TMLR Group at Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/). I received my B.Eng. in Computer Science and Technology from Huazhong University of Science and Technology in 2026.
 
-I'm **Tian Cheng**, a Research Assistant in the [TMLR Group](https://github.com/tmlr-group) at Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/). I received my B.Eng. in Computer Science and Technology from Huazhong University of Science and Technology.
+My research interests are **agentic reinforcement learning** and **foundation model reasoning**.
 
-My research interests are **agentic reinforcement learning** and **trustworthy reasoning** with foundation models.
+[Personal website](https://t1an-cheng.github.io/) · Feel free to [email me](mailto:katsurasenri@gmail.com) to discuss research or exchange ideas.
 
-### [AlphaApollo ↗](https://github.com/tmlr-group/AlphaApollo)
+### Research
 
-A system for deep agentic reasoning, connecting foundation models with professional tools and learning from feedback.
+[**AlphaApollo**](https://github.com/tmlr-group/AlphaApollo) — A system for deep agentic reasoning, connecting foundation models with tools through multi-turn reasoning, reinforcement learning, and verifiable self-evolution.
